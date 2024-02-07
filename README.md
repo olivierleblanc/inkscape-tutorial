@@ -24,7 +24,7 @@ Follow the steps in https://inkscape.org.
 Install [TexText](https://textext.github.io/textext/index.html) to write LaTeX mathematical equations.
 
 <p align="center">
-<img src="figs/textext.png" width="500px" align="center">
+<img src="figs/textext.png" width="400px" align="center">
 </p> 
 
 ### Adding new fonts
@@ -37,6 +37,15 @@ We advise you to install the LaTeX font ``CMU Serif``: https://fontlibrary.org/e
 SVG2TikZ, formally known as Inkscape2TikZ, are a set of tools for converting SVG graphics to TikZ/PGF code.
 
 Visit https://github.com/xyz2tex/svg2tikz for further information.
+
+Here is a nice video motivating the use of ``tikz`` for ``LaTeX``:
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=bQugbYq0BVA">
+<img src="figs/tikz_video.png" width="400px" align="center" >
+</a>
+</p>
+
 
 ## Contributions
 
