@@ -1,0 +1,1 @@
+Reproduce [this example](https://xyz2tex.github.io/svg2tikz/example.html) from ``svg2tikz``.

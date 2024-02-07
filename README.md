@@ -1,6 +1,8 @@
-<img src="Inkscape.png" width="150">
+<img src="figs/Inkscape.png" width="80">
 
 # Inkscape tutorial  
+
+This tutorial is made with version 1.3.2.
 
 TODO list:
 
@@ -10,14 +12,31 @@ TODO list:
 
 The repository contains a couple of drawing examples made with Inkscape.
 
-## Install TexText
 
-You will need to install [TexText](https://textext.github.io/textext/index.html) allowing you to write LaTeX mathematical equations.
+## Install
 
-## Adding new fonts
+### Inkscape
+
+Follow the steps in https://inkscape.org.
+
+### TexText
+
+Install [TexText](https://textext.github.io/textext/index.html) to write LaTeX mathematical equations.
+
+<p align="center">
+<img src="figs/textext.png" width="500px" align="center">
+</p> 
+
+### Adding new fonts
 
 It is possible to download new fonts on your PC. After adding the fonts on your OS, they should be usable anywhere (Microsoft Word, Inskcape, ...).
 We advise you to install the LaTeX font ``CMU Serif``: https://fontlibrary.org/en/font/cmu-serif.
+
+### svg2tikz
+
+SVG2TikZ, formally known as Inkscape2TikZ, are a set of tools for converting SVG graphics to TikZ/PGF code.
+
+Visit https://github.com/xyz2tex/svg2tikz for further information.
 
 ## Contributions
 

@@ -1,3 +1,17 @@
 # all video files
 *.avi
 *.mp4
+
+# all latex temporary files
+*.aux
+*.log
+*.synctex.gz
+*.out
+*.toc
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.fls
+*.fdb_latexmk
+*.synctex.gz
