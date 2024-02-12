@@ -15,6 +15,9 @@ This file reports what will be said during the tutorial in the same order.
 4. Union.
 5. Rotation.
 6. Colouring object, stroke, and gradient.
+7. Order of viewing.
+8. Grouping.
+9. Create clone tiles.
 
 # C. Write maths and LaTeX text.
 
