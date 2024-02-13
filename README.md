@@ -1,12 +1,13 @@
-<img src="figs/Inkscape.png" width="80">
-
 # Inkscape tutorial  
 
 This tutorial is made with version 1.3.2.
 
-TODO list:
-
-* Add YouTube link.
+<p align="center">
+<a href="https://www.youtube.com/watch?v=MZXZwYeJMAw">
+Youtube video <br>
+<img src="figs/inkscape.png" width="300px" align="center" >
+</a>
+</p>
 
 ## Repository Structure
 
