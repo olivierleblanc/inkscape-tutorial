@@ -5,7 +5,7 @@ This tutorial is made with version 1.3.2.
 <p align="center">
 <a href="https://www.youtube.com/watch?v=MZXZwYeJMAw">
 Youtube video <br>
-<img src="figs/inkscape.png" width="300px" align="center" >
+<img src="figs/inkscape_logo.png" width="300px" align="center" >
 </a>
 </p>
 
